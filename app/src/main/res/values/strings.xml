@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Fibonacci Numbers</string>
+    <string name="start">Start</string>
+    <string name="hint_enter_number">Enter Number</string>
+    <string name="please_enter_the_number">Please enter the number</string>
+    <string name="cancel">Cancel</string>
+    <string name="current_is">Current is %1$d</string>
+    <string name="result_is">Result is %1$d</string>
+</resources>
